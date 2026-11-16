@@ -1,0 +1,18 @@
+# Quick Canvas
+
+> Quick Canvas is a simple paint app for Mac (macOS 13 or later), an independent alternative for people who miss Microsoft Paint. Free 7-day trial, then a one-time US$4.99 purchase. No subscription, no account, works offline.
+
+Features: pencil, eraser and six brushes (round, calligraphy pen, marker, oil, crayon, spray); 17 shapes including curves, arrows and stars; rectangle and free-form selection with copy, paste and arrow-key nudging; crop, resize, rotate, flip; text; fill; colour picker; opacity; rulers and gridlines; zoom 25% to 800%; save as PNG, JPG, JPEG, PDF, GIF, TIFF, BMP and HEIC at high quality or smaller size; on-device Remove Background (macOS 14+); Apple Intelligence image creation (Apple silicon, macOS 15.2+). Saved files contain no watermark and no hidden metadata.
+
+## Pages
+- [Home](https://ismailammar.github.io/quickcanvas-support/): overview, demo, pricing
+- [User guide](https://ismailammar.github.io/quickcanvas-support/guide.html): every tool and shortcut
+- [Support and FAQ](https://ismailammar.github.io/quickcanvas-support/support.html)
+- [Privacy policy](https://ismailammar.github.io/quickcanvas-support/privacy.html)
+- [Is there Paint for Mac?](https://ismailammar.github.io/quickcanvas-support/how-to/paint-for-mac.html)
+- [Save an image as PDF on Mac](https://ismailammar.github.io/quickcanvas-support/how-to/save-image-as-pdf-on-mac.html)
+- [Remove a background on Mac](https://ismailammar.github.io/quickcanvas-support/how-to/remove-background-on-mac.html)
+- [Crop a screenshot on Mac](https://ismailammar.github.io/quickcanvas-support/how-to/crop-screenshot-on-mac.html)
+- [Add text to a picture on Mac](https://ismailammar.github.io/quickcanvas-support/how-to/add-text-to-image-on-mac.html)
+- [Resize an image on Mac](https://ismailammar.github.io/quickcanvas-support/how-to/resize-image-on-mac.html)
+- [Convert HEIC to JPG on Mac](https://ismailammar.github.io/quickcanvas-support/how-to/convert-heic-to-jpg-on-mac.html)
